@@ -1,0 +1,5 @@
+{
+  "name": "Picas y Fijas",
+  "description": "A logic-based number guessing game. Guess the secret 4-digit number in the fewest attempts. Play solo against the computer or challenge a friend in two-player mode. Track your best scores and climb the leaderboard!",
+  "requestFramePermissions": []
+}
